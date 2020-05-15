@@ -1,0 +1,29 @@
+{
+  "name": "crisp-url",
+  "version": "0.0.1",
+  "description": "Crisp Url for Long Url using Base62",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha crisp-url.spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saibabanadh/crisp-url.git"
+  },
+  "keywords": [
+    "tiny",
+    "short",
+    "crisp",
+    "url",
+    "tiny url",
+    "short url",
+    "shorten url",
+    "short link"
+  ],
+  "author": "Sai Baba Nadh Konda <saibabanadh@gmail.com> (http://github.com/saibabanadh)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/saibabanadh/crisp-url/issues"
+  },
+  "homepage": "https://github.com/saibabanadh/crisp-url#readme"
+}
